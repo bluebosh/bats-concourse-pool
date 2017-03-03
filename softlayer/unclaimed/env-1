@@ -1,22 +1,12 @@
 {
-    "Version": "2012-10-17",
-    "network1": {
-        {
-            "static-ip-1": "10.112.166.132"，
-            "gateway": "10.112.166.129"，
-            "public-vlan": "524956"，
-            "private-vlan": "524954"，
-            "reservedRange": "*",
-            "cidr": ""
-        }
-    },
-    "network2": {
-            "static-ip-2": "10.112.166.133",
-            "gateway": "10.112.166.129"，
-            "public-vlan": "524956"，
-            "private-vlan": "524954"，
-            "reservedRange": "*",
-            "cidr": "*"
-        }
-    }
+  "Version": "2017-03-02",
+  "network1": {
+    "softlayerDatacenter": "lon02",
+    "softlayerStaticIP-1": "10.112.166.133",
+    "softlayerGateway": "10.112.166.129",
+    "softlayerPublicVLAN": "524956",
+    "softlayerPrivateVLAN": "524954",
+    "softlayerReservedRange": "10.112.166.128 - 10.112.166.131",
+    "softlayerCIDR": "10.112.166.128/26"
+  }
 }
