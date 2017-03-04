@@ -6,7 +6,7 @@
     "softlayerGateway": "10.112.166.129",
     "softlayerPublicVLAN": "524956",
     "softlayerPrivateVLAN": "524954",
-    "softlayerReservedRange": "10.112.166.128 - 10.112.166.131",
+    "reservedRange": "10.112.166.128 - 10.112.166.133",
     "softlayerCIDR": "10.112.166.128/26"
   }
 }
