@@ -7,7 +7,7 @@
     "softlayerPublicVLAN": 524956,
     "softlayerPrivateVLAN": 524954,
     "reservedRange": "10.112.166.128 - 10.112.166.138",
-    "softlayerStaticIPs": "10.112.166.139 - 10.112.166.255",
+    "softlayerStaticIPs": "10.112.166.139 - 10.112.166.190",
     "softlayerCIDR": "10.112.166.128/26"
   }
 }
