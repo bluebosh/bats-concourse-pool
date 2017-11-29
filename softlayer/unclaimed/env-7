@@ -2,7 +2,7 @@
   "Version": "2017-03-02",
   "network1": {
     "softlayerDatacenter": "lon02",
-    "softlayerDirector": "10.112.166.135",
+    "softlayerDirector": "10.112.166.137",
     "softlayerGateway": "10.112.166.129",
     "softlayerPublicVLAN": 524956,
     "softlayerPrivateVLAN": 524954,
